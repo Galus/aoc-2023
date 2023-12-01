@@ -1,0 +1,5003 @@
+read lines
+File { fd: 3, path: "/Users/m/repo/gitlab/aoc-2023/1/aoc23day01/input.txt", read: true, write: false }
+"6798seven"
+digits: [6, 7, 9, 8]
+First number: 6
+Last number: 8
+number: 68
+"six8b32csscsdgjsevenfivedlhzhc"
+digits: [8, 3, 2]
+First number: 8
+Last number: 2
+number: 82
+"fcvvkvjjnhfivesixfiveninesxlvnhfckc54"
+digits: [5, 4]
+First number: 5
+Last number: 4
+number: 54
+"feightwo4twofivefour"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"cgpzm2sevenone68636"
+digits: [2, 6, 8, 6, 3, 6]
+First number: 2
+Last number: 6
+number: 26
+"498879"
+digits: [4, 9, 8, 8, 7, 9]
+First number: 4
+Last number: 9
+number: 49
+"fivetwo2plltvdfourhhgrfn"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"onertxzlzdnxn2seven"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"ninethree4v1five"
+digits: [4, 1]
+First number: 4
+Last number: 1
+number: 41
+"5pnnss16lzbsmcckeightdseven"
+digits: [5, 1, 6]
+First number: 5
+Last number: 6
+number: 56
+"jthree249four2cjzqmmbrqnnine"
+digits: [2, 4, 9, 2]
+First number: 2
+Last number: 2
+number: 22
+"foursixfourfbgvqm1rchdlmzhtzqqfjzpmln"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"twojtwoscbrtgmnqzvbfbzvrtkxhmf76nine"
+digits: [7, 6]
+First number: 7
+Last number: 6
+number: 76
+"2fourtwo"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"svxz8bjvt5zzvjzhkmtmnnft92"
+digits: [8, 5, 9, 2]
+First number: 8
+Last number: 2
+number: 82
+"threetffnjvkfh81nineqqshzdf2vtjfqjtbdv"
+digits: [8, 1, 2]
+First number: 8
+Last number: 2
+number: 82
+"seven1drfivethreedpqflxgdshlzmmnrb"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"7sggjxkcxfourthreefourtwos3nine"
+digits: [7, 3]
+First number: 7
+Last number: 3
+number: 73
+"39t6rvkbdnfpssj6djnfbqklkgfsqbf"
+digits: [3, 9, 6, 6]
+First number: 3
+Last number: 6
+number: 36
+"3four2zcfvtplkrbeight274"
+digits: [3, 2, 2, 7, 4]
+First number: 3
+Last number: 4
+number: 34
+"one7sixninesix"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"kkxmtmdthree6jrj6"
+digits: [6, 6]
+First number: 6
+Last number: 6
+number: 66
+"81sevenmnine1llbqrsprc"
+digits: [8, 1, 1]
+First number: 8
+Last number: 1
+number: 81
+"5nine9qgjceight"
+digits: [5, 9]
+First number: 5
+Last number: 9
+number: 59
+"three1sdmq9sevenfournine"
+digits: [1, 9]
+First number: 1
+Last number: 9
+number: 19
+"khnlbmzhvlsix3"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"nineone6onesixvlnlxeightfive"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"schplznseveneightnlcxgr7four"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"6one1djcdmpdrgq3two"
+digits: [6, 1, 3]
+First number: 6
+Last number: 3
+number: 63
+"fourzhpnphmq52r813four"
+digits: [5, 2, 8, 1, 3]
+First number: 5
+Last number: 3
+number: 53
+"scsxjthreefoureight2fivepfmpfj8"
+digits: [2, 8]
+First number: 2
+Last number: 8
+number: 28
+"69xvbxfffmr7one8gmch8"
+digits: [6, 9, 7, 8, 8]
+First number: 6
+Last number: 8
+number: 68
+"one8tfpgrdhm"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"2gxmhtfrbrkpdvlvsmdqrktxtrpssbrv933"
+digits: [2, 9, 3, 3]
+First number: 2
+Last number: 3
+number: 23
+"4vfrtkdqlbtwordlbppsssp"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"2cjmtvnzpbkdcq5twofourtwo"
+digits: [2, 5]
+First number: 2
+Last number: 5
+number: 25
+"2three5onetwogpfqtszbjh"
+digits: [2, 5]
+First number: 2
+Last number: 5
+number: 25
+"hgvnine9four996"
+digits: [9, 9, 9, 6]
+First number: 9
+Last number: 6
+number: 96
+"37142745"
+digits: [3, 7, 1, 4, 2, 7, 4, 5]
+First number: 3
+Last number: 5
+number: 35
+"four73"
+digits: [7, 3]
+First number: 7
+Last number: 3
+number: 73
+"8552ztclnd"
+digits: [8, 5, 5, 2]
+First number: 8
+Last number: 2
+number: 82
+"onevmpd76eighth"
+digits: [7, 6]
+First number: 7
+Last number: 6
+number: 76
+"threethree8"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"bgtwonedrmc35"
+digits: [3, 5]
+First number: 3
+Last number: 5
+number: 35
+"23one"
+digits: [2, 3]
+First number: 2
+Last number: 3
+number: 23
+"9lpxzhkck2five3qone9zgxzrzd"
+digits: [9, 2, 3, 9]
+First number: 9
+Last number: 9
+number: 99
+"hs1"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"92xhflsixltpqprpfggbzrvmfqone4"
+digits: [9, 2, 4]
+First number: 9
+Last number: 4
+number: 94
+"eight9sevenpcxvl6two1"
+digits: [9, 6, 1]
+First number: 9
+Last number: 1
+number: 91
+"rceightwo6jc1nvllxsstqgnlhtl4"
+digits: [6, 1, 4]
+First number: 6
+Last number: 4
+number: 64
+"tlnhlsixfn3lbdlqztmkthreedllfourone"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"74five"
+digits: [7, 4]
+First number: 7
+Last number: 4
+number: 74
+"dcfpstvxnd52kdqhlht"
+digits: [5, 2]
+First number: 5
+Last number: 2
+number: 52
+"7onenine"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"2twothreehdzssrt1"
+digits: [2, 1]
+First number: 2
+Last number: 1
+number: 21
+"eightseveneight54xflfspthreefsfbtbslx"
+digits: [5, 4]
+First number: 5
+Last number: 4
+number: 54
+"4ffsfsvkxslvp"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"939flgbmvzpvfsmtcsix3"
+digits: [9, 3, 9, 3]
+First number: 9
+Last number: 3
+number: 93
+"742"
+digits: [7, 4, 2]
+First number: 7
+Last number: 2
+number: 72
+"qcfive72plvnd7"
+digits: [7, 2, 7]
+First number: 7
+Last number: 7
+number: 77
+"5hhd8onejbsfklmpzcgffivenine"
+digits: [5, 8]
+First number: 5
+Last number: 8
+number: 58
+"twodsmjkhdxjdgktlrteightseven2cttnpjsv"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"31kptdmtwojrgp"
+digits: [3, 1]
+First number: 3
+Last number: 1
+number: 31
+"dnnmrflcft92"
+digits: [9, 2]
+First number: 9
+Last number: 2
+number: 92
+"7gtglplfkrnine85xm7"
+digits: [7, 8, 5, 7]
+First number: 7
+Last number: 7
+number: 77
+"voneightznktfvmxlhnine1seven4z"
+digits: [1, 4]
+First number: 1
+Last number: 4
+number: 14
+"24sevenncdmcpkrvnxlbeightsixlrvns"
+digits: [2, 4]
+First number: 2
+Last number: 4
+number: 24
+"38prmrxcm5"
+digits: [3, 8, 5]
+First number: 3
+Last number: 5
+number: 35
+"4vhncsevenjgvjllppvcfmvrlsdtkqcldpq"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"81phvtb"
+digits: [8, 1]
+First number: 8
+Last number: 1
+number: 81
+"5l7twoeightlr"
+digits: [5, 7]
+First number: 5
+Last number: 7
+number: 57
+"8xfqbnone5"
+digits: [8, 5]
+First number: 8
+Last number: 5
+number: 85
+"62737sixfourdfqvdcone"
+digits: [6, 2, 7, 3, 7]
+First number: 6
+Last number: 7
+number: 67
+"seven1two"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"79qncxqcj1one3"
+digits: [7, 9, 1, 3]
+First number: 7
+Last number: 3
+number: 73
+"69four3two7six2six"
+digits: [6, 9, 3, 7, 2]
+First number: 6
+Last number: 2
+number: 62
+"six499"
+digits: [4, 9, 9]
+First number: 4
+Last number: 9
+number: 49
+"gknlkqvntvmsjzlfb7one"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"honeightmjlmvmbxsmjzg77"
+digits: [7, 7]
+First number: 7
+Last number: 7
+number: 77
+"6seven15"
+digits: [6, 1, 5]
+First number: 6
+Last number: 5
+number: 65
+"five59two91"
+digits: [5, 9, 9, 1]
+First number: 5
+Last number: 1
+number: 51
+"gmhhtq9368gtsdg"
+digits: [9, 3, 6, 8]
+First number: 9
+Last number: 8
+number: 98
+"nlmbvxckjtwofourfjnine47threefive"
+digits: [4, 7]
+First number: 4
+Last number: 7
+number: 47
+"93eightnpkjf26one4"
+digits: [9, 3, 2, 6, 4]
+First number: 9
+Last number: 4
+number: 94
+"qcslmgkkgbsnrr6ninennr"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"8381three2threeone"
+digits: [8, 3, 8, 1, 2]
+First number: 8
+Last number: 2
+number: 82
+"7hnqndhs8"
+digits: [7, 8]
+First number: 7
+Last number: 8
+number: 78
+"qd65"
+digits: [6, 5]
+First number: 6
+Last number: 5
+number: 65
+"twogtlrqrlvfourfour5qsixdjhvqvdlljnvbtkq"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"6seven8ldvkz"
+digits: [6, 8]
+First number: 6
+Last number: 8
+number: 68
+"gf14sevenrv"
+digits: [1, 4]
+First number: 1
+Last number: 4
+number: 14
+"2fourpkzdklbvm2"
+digits: [2, 2]
+First number: 2
+Last number: 2
+number: 22
+"four26jsrbsrxdlmzntsxgg"
+digits: [2, 6]
+First number: 2
+Last number: 6
+number: 26
+"tghcz8fourthree"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"threethree8hzlvpjzxcdfvcpjbmc942"
+digits: [8, 9, 4, 2]
+First number: 8
+Last number: 2
+number: 82
+"jktsix2cprnhkkktjcvkvtkdggvrscf"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"dzhh82"
+digits: [8, 2]
+First number: 8
+Last number: 2
+number: 82
+"nine8tsix"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"9fivernlsl6jvfrljzjg"
+digits: [9, 6]
+First number: 9
+Last number: 6
+number: 96
+"52d"
+digits: [5, 2]
+First number: 5
+Last number: 2
+number: 52
+"threethree556nine"
+digits: [5, 5, 6]
+First number: 5
+Last number: 6
+number: 56
+"g2twoblhhptzdqbbnnrpseven5"
+digits: [2, 5]
+First number: 2
+Last number: 5
+number: 25
+"jfive8"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"eighttwotwofiveqdfr9"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"kqxncc74sjttqklx3lxpffbdlthreetwooneightnb"
+digits: [7, 4, 3]
+First number: 7
+Last number: 3
+number: 73
+"1xpvjzvplfjdsjqrtmzbknine"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"five4r6five"
+digits: [4, 6]
+First number: 4
+Last number: 6
+number: 46
+"72eight"
+digits: [7, 2]
+First number: 7
+Last number: 2
+number: 72
+"1kzvxckdbjjpprrqn4eight6onebsdmrcxqznjtbnh"
+digits: [1, 4, 6]
+First number: 1
+Last number: 6
+number: 16
+"htwocglz3jggvkcbzvtconeeight7"
+digits: [3, 7]
+First number: 3
+Last number: 7
+number: 37
+"twozspgcxf5bhx"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"ntglpd1six1bv1"
+digits: [1, 1, 1]
+First number: 1
+Last number: 1
+number: 11
+"5zxgrdlhkmzsix47t43"
+digits: [5, 4, 7, 4, 3]
+First number: 5
+Last number: 3
+number: 53
+"kfrnghxgfzpjxmstwofourkzvcsksixfive1"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"grnd423"
+digits: [4, 2, 3]
+First number: 4
+Last number: 3
+number: 43
+"8f"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"1xcqchtnsix4tvtffone"
+digits: [1, 4]
+First number: 1
+Last number: 4
+number: 14
+"bxlbtwotwoeight9twoseveneight"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"7ldngmndg96pjnfour"
+digits: [7, 9, 6]
+First number: 7
+Last number: 6
+number: 76
+"five4threexp"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"mtwonexp7nine3z9"
+digits: [7, 3, 9]
+First number: 7
+Last number: 9
+number: 79
+"8kg95ninesixtwonem"
+digits: [8, 9, 5]
+First number: 8
+Last number: 5
+number: 85
+"sixpmvfoursevenz8m"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"vrszvbtvtr28pzcjxkztzhvmtqvhnqf3"
+digits: [2, 8, 3]
+First number: 2
+Last number: 3
+number: 23
+"1gsbtwopjkrrqc1one"
+digits: [1, 1]
+First number: 1
+Last number: 1
+number: 11
+"tbmsix93"
+digits: [9, 3]
+First number: 9
+Last number: 3
+number: 93
+"n4"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"kffgtgcl866364"
+digits: [8, 6, 6, 3, 6, 4]
+First number: 8
+Last number: 4
+number: 84
+"one4qgkzthpmeight8eightfourkdcnpxv6"
+digits: [4, 8, 6]
+First number: 4
+Last number: 6
+number: 46
+"cfhlmng21five"
+digits: [2, 1]
+First number: 2
+Last number: 1
+number: 21
+"8lhcseven9vksfgpvlnfq3bglktc"
+digits: [8, 9, 3]
+First number: 8
+Last number: 3
+number: 83
+"twocc2rpflzhqseventhree"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"six1fourfivefive5onesnpz"
+digits: [1, 5]
+First number: 1
+Last number: 5
+number: 15
+"1ffqfxh75flgjqcx"
+digits: [1, 7, 5]
+First number: 1
+Last number: 5
+number: 15
+"fourthree1twortvlvcsvs2"
+digits: [1, 2]
+First number: 1
+Last number: 2
+number: 12
+"8rxrpvxthreestbbpcszhnbrsfour"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"6qdkshgrsjxxsvpmnjxnzmcone71fckgjbrsnq"
+digits: [6, 7, 1]
+First number: 6
+Last number: 1
+number: 61
+"8568three2eight"
+digits: [8, 5, 6, 8, 2]
+First number: 8
+Last number: 2
+number: 82
+"1khdqskj"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"onebdfour6"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"dpcpqnineqjnfzffsb5tj1ccm4four"
+digits: [5, 1, 4]
+First number: 5
+Last number: 4
+number: 54
+"nsrvffqhd67sixtwoseventwohdgh3"
+digits: [6, 7, 3]
+First number: 6
+Last number: 3
+number: 63
+"nvsscfour973fsngxbm6"
+digits: [9, 7, 3, 6]
+First number: 9
+Last number: 6
+number: 96
+"93zzrgmsqtlckzrnbbk4seven"
+digits: [9, 3, 4]
+First number: 9
+Last number: 4
+number: 94
+"3seventhreexpfrrfpfiverv7"
+digits: [3, 7]
+First number: 3
+Last number: 7
+number: 37
+"threeeightfourfoureightnine1one8"
+digits: [1, 8]
+First number: 1
+Last number: 8
+number: 18
+"7onethreefour33cghone"
+digits: [7, 3, 3]
+First number: 7
+Last number: 3
+number: 73
+"sevenfivesixseven2"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"jgbgmcx76qc"
+digits: [7, 6]
+First number: 7
+Last number: 6
+number: 76
+"zxbpvj7"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"21xlcgpshvth96fourtwokcvmhcdtxnm"
+digits: [2, 1, 9, 6]
+First number: 2
+Last number: 6
+number: 26
+"foursix2"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"6three9nine4sevennine"
+digits: [6, 9, 4]
+First number: 6
+Last number: 4
+number: 64
+"dqnhdnine3"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"seven58vzcxqmffive7"
+digits: [5, 8, 7]
+First number: 5
+Last number: 7
+number: 57
+"xdmeightwomncvnkdkpxtwoonenineseven1tclckshvptwo"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"gsdff22fivethreebn"
+digits: [2, 2]
+First number: 2
+Last number: 2
+number: 22
+"one7gd"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"jcz8xxfdlphz5threepzmjqzfb39qllhvcqj"
+digits: [8, 5, 3, 9]
+First number: 8
+Last number: 9
+number: 89
+"fivesvjdbqlvgnvkcklszeightcjhdjxdvchfive9"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"9sfgxbtcgbk"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"six4zvfivelxfghffvq9bfkshrkmbn"
+digits: [4, 9]
+First number: 4
+Last number: 9
+number: 49
+"sdtxjnnjjp3fivejsll5"
+digits: [3, 5]
+First number: 3
+Last number: 5
+number: 35
+"tpeightwozhzqxjstneightsixgbjlmsjfls6tlc"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"668ninenine"
+digits: [6, 6, 8]
+First number: 6
+Last number: 8
+number: 68
+"three7two"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"gtskqnine1seven862mm"
+digits: [1, 8, 6, 2]
+First number: 1
+Last number: 2
+number: 12
+"487jsqqfkzfcs2lthng7five"
+digits: [4, 8, 7, 2, 7]
+First number: 4
+Last number: 7
+number: 47
+"gjks7"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"lfnqzjphssevenone2qvfiveninexhr"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"fvfgnddffhjjfour9six9"
+digits: [9, 9]
+First number: 9
+Last number: 9
+number: 99
+"ttkmtncjc9five5eight3"
+digits: [9, 5, 3]
+First number: 9
+Last number: 3
+number: 93
+"3seven24426four"
+digits: [3, 2, 4, 4, 2, 6]
+First number: 3
+Last number: 6
+number: 36
+"two9jnd5eight"
+digits: [9, 5]
+First number: 9
+Last number: 5
+number: 95
+"threeonevmzqdxvjlqxgzqone1hcpqsd43"
+digits: [1, 4, 3]
+First number: 1
+Last number: 3
+number: 13
+"tfzzzjjbx7oneeightbqthree"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"68onerrpvsixvkmnrndq"
+digits: [6, 8]
+First number: 6
+Last number: 8
+number: 68
+"jbjljljmtwoqgt3kpvdkdsixone"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"kxvbxzzxrfour2slfjkkgq555gxfsix"
+digits: [2, 5, 5, 5]
+First number: 2
+Last number: 5
+number: 25
+"three9tsthree"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"eighttbtdg2sevenxsqsq"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"seven213jbqmvmvvhsixrfqhlfive"
+digits: [2, 1, 3]
+First number: 2
+Last number: 3
+number: 23
+"nsvcdhkbdmxqbkthree28ztjtlsqprcplmx"
+digits: [2, 8]
+First number: 2
+Last number: 8
+number: 28
+"4lntqfk4tkmmgkvrcninenineonelpjtq"
+digits: [4, 4]
+First number: 4
+Last number: 4
+number: 44
+"221eightqfp7eightzshhl"
+digits: [2, 2, 1, 7]
+First number: 2
+Last number: 7
+number: 27
+"vppzgrsix1fmvpcpkvsvppspqcsixone"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"5lhcrxclclcsix4"
+digits: [5, 4]
+First number: 5
+Last number: 4
+number: 54
+"qhone2mhhxqqdl73seven5"
+digits: [2, 7, 3, 5]
+First number: 2
+Last number: 5
+number: 25
+"5three9hdnfrgfjsfive7"
+digits: [5, 9, 7]
+First number: 5
+Last number: 7
+number: 57
+"grcfbvfkj4"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"487mzcgxvxqgx"
+digits: [4, 8, 7]
+First number: 4
+Last number: 7
+number: 47
+"four8nine3four3lpqnclxzzbmjztbhdfdjfive"
+digits: [8, 3, 3]
+First number: 8
+Last number: 3
+number: 83
+"3six6kbrvjjsndlxvsz5qcfmtzsqlmqbrn"
+digits: [3, 6, 5]
+First number: 3
+Last number: 5
+number: 35
+"klcx6eightsix2onesixthree"
+digits: [6, 2]
+First number: 6
+Last number: 2
+number: 62
+"8ztdfdglxhjxmmvktwolsrr5six7"
+digits: [8, 5, 7]
+First number: 8
+Last number: 7
+number: 87
+"9two66three"
+digits: [9, 6, 6]
+First number: 9
+Last number: 6
+number: 96
+"6threesixtgnznd"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"ggglpldvkkhgmrgt3"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"9kktwo3srdtpskbbx446"
+digits: [9, 3, 4, 4, 6]
+First number: 9
+Last number: 6
+number: 96
+"7xmrfkbsr5nzqfgseveneightcbshpfour"
+digits: [7, 5]
+First number: 7
+Last number: 5
+number: 75
+"six5eightseven5gzsjfthree21"
+digits: [5, 5, 2, 1]
+First number: 5
+Last number: 1
+number: 51
+"2897cgv"
+digits: [2, 8, 9, 7]
+First number: 2
+Last number: 7
+number: 27
+"dffvs7zrlrvlkjcfourjxsndkzq4"
+digits: [7, 4]
+First number: 7
+Last number: 4
+number: 74
+"eight22blzxvvshgtqlqpqhsixctp"
+digits: [2, 2]
+First number: 2
+Last number: 2
+number: 22
+"three8bgjhkvnbdvbttblp1fivenxslnseven"
+digits: [8, 1]
+First number: 8
+Last number: 1
+number: 81
+"3one21x73twongdnb"
+digits: [3, 2, 1, 7, 3]
+First number: 3
+Last number: 3
+number: 33
+"kfzzhhctgrlznqcdvzshlfive56pdqx"
+digits: [5, 6]
+First number: 5
+Last number: 6
+number: 56
+"cfsthhgvgfddmsjn83sjrrkxzl"
+digits: [8, 3]
+First number: 8
+Last number: 3
+number: 83
+"four99tfvbtxgfqrlhcdktmp"
+digits: [9, 9]
+First number: 9
+Last number: 9
+number: 99
+"3rfhfgcf8six2"
+digits: [3, 8, 2]
+First number: 3
+Last number: 2
+number: 32
+"onexsbxqmqkj3hrblqnfrseven"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"hfgnvtdzzb51gtljm9eight"
+digits: [5, 1, 9]
+First number: 5
+Last number: 9
+number: 59
+"zprhsph3"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"sixsevennine2four715nine"
+digits: [2, 7, 1, 5]
+First number: 2
+Last number: 5
+number: 25
+"fzxzkcvcxl4"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"lcnkqqsrtwogcbvxrtfp2five5three2"
+digits: [2, 5, 2]
+First number: 2
+Last number: 2
+number: 22
+"7ninesix9jxhrdqrpr94"
+digits: [7, 9, 9, 4]
+First number: 7
+Last number: 4
+number: 74
+"lxpqxseven2three"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"mnsjjgdlltwodrcfltwo8vninemqlfqsgccl3"
+digits: [8, 3]
+First number: 8
+Last number: 3
+number: 83
+"sevennfkfvxsqr7twotwonedb"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"7twonpkjfjmgqxsxpdtninetpsfjlqvv"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"seventhree328sixscxmpqjlxftwo"
+digits: [3, 2, 8]
+First number: 3
+Last number: 8
+number: 38
+"3qpxvglmpcgxzrseven9"
+digits: [3, 9]
+First number: 3
+Last number: 9
+number: 39
+"6onemqrvdmckhmdrzxzkxbjthreeeighttwoql"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"sevenfdpqqzpbflflgph698eight9"
+digits: [6, 9, 8, 9]
+First number: 6
+Last number: 9
+number: 69
+"fivedbntvzzdq36two3"
+digits: [3, 6, 3]
+First number: 3
+Last number: 3
+number: 33
+"8six3fivefivefivesevenpxqpxrjqseven"
+digits: [8, 3]
+First number: 8
+Last number: 3
+number: 83
+"sixtwoqt4"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"tmcfive4zkxhvlrvfzhkczpkvbxk1"
+digits: [4, 1]
+First number: 4
+Last number: 1
+number: 41
+"rbrnxxbfxmbqscltvsixone79three"
+digits: [7, 9]
+First number: 7
+Last number: 9
+number: 79
+"88sixzqntjsfhqj6three43"
+digits: [8, 8, 6, 4, 3]
+First number: 8
+Last number: 3
+number: 83
+"pmcfsrpknvbfhrzlvlcffjmfive32323"
+digits: [3, 2, 3, 2, 3]
+First number: 3
+Last number: 3
+number: 33
+"97rtggjhvvdfive"
+digits: [9, 7]
+First number: 9
+Last number: 7
+number: 97
+"vtdljvqht1fivefivetwo"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"88rqtpdz5nine"
+digits: [8, 8, 5]
+First number: 8
+Last number: 5
+number: 85
+"rtwone725"
+digits: [7, 2, 5]
+First number: 7
+Last number: 5
+number: 75
+"sghfour2eightgrgpsmfxpchmmpndccgzfzz"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"kpgrhmtkxzzmdpcdzeighteight2"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"5bfhbmffeight6"
+digits: [5, 6]
+First number: 5
+Last number: 6
+number: 56
+"8fqtr17czztqgfour4lx"
+digits: [8, 1, 7, 4]
+First number: 8
+Last number: 4
+number: 84
+"9xnbmgqgvrtwonevs"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"1zqsvmcqsxjtp"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"twollzsslxc37sixoneightp"
+digits: [3, 7]
+First number: 3
+Last number: 7
+number: 37
+"6bbgl76"
+digits: [6, 7, 6]
+First number: 6
+Last number: 6
+number: 66
+"58zntvhvgdnh2"
+digits: [5, 8, 2]
+First number: 5
+Last number: 2
+number: 52
+"three54"
+digits: [5, 4]
+First number: 5
+Last number: 4
+number: 54
+"fftdddqnninesevenone76"
+digits: [7, 6]
+First number: 7
+Last number: 6
+number: 76
+"6ddqzjoneeighttwothree"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"56threetcp46"
+digits: [5, 6, 4, 6]
+First number: 5
+Last number: 6
+number: 56
+"21six3m"
+digits: [2, 1, 3]
+First number: 2
+Last number: 3
+number: 23
+"214onethreesp6six"
+digits: [2, 1, 4, 6]
+First number: 2
+Last number: 6
+number: 26
+"652three6"
+digits: [6, 5, 2, 6]
+First number: 6
+Last number: 6
+number: 66
+"lvc1onefiveone"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"6ddrgglstz"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"twothreerjpb2four55"
+digits: [2, 5, 5]
+First number: 2
+Last number: 5
+number: 25
+"eight8eightwoh"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"fivefqckddnine7one61zlkjgxjtqq"
+digits: [7, 6, 1]
+First number: 7
+Last number: 1
+number: 71
+"gzneightwovlsdvcmvj3qhbfmkdnvqone99"
+digits: [3, 9, 9]
+First number: 3
+Last number: 9
+number: 39
+"92sixgxsix"
+digits: [9, 2]
+First number: 9
+Last number: 2
+number: 92
+"64eightxb2six"
+digits: [6, 4, 2]
+First number: 6
+Last number: 2
+number: 62
+"51fivepbxrzkdzjhsixoneightmt"
+digits: [5, 1]
+First number: 5
+Last number: 1
+number: 51
+"ninem3nlpdtonefivethree6six"
+digits: [3, 6]
+First number: 3
+Last number: 6
+number: 36
+"lvxf3nine1eight"
+digits: [3, 1]
+First number: 3
+Last number: 1
+number: 31
+"vvbvfvtninefive5onezgtsjplxc"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"qltld5p9tgpmkzrf4"
+digits: [5, 9, 4]
+First number: 5
+Last number: 4
+number: 54
+"71six"
+digits: [7, 1]
+First number: 7
+Last number: 1
+number: 71
+"2threergjrcqsixhgjtdkjpqnglzgdpqntnqtzcfcbb3"
+digits: [2, 3]
+First number: 2
+Last number: 3
+number: 23
+"7xfj5btrml3two"
+digits: [7, 5, 3]
+First number: 7
+Last number: 3
+number: 73
+"979nzpjkcthcl13tnfour"
+digits: [9, 7, 9, 1, 3]
+First number: 9
+Last number: 3
+number: 93
+"one1jseven6three7five"
+digits: [1, 6, 7]
+First number: 1
+Last number: 7
+number: 17
+"tppnljghmhxplmnjgfmpfourtkffqcghxx9four9"
+digits: [9, 9]
+First number: 9
+Last number: 9
+number: 99
+"396"
+digits: [3, 9, 6]
+First number: 3
+Last number: 6
+number: 36
+"onettfdjdd5msplxhlqvv12"
+digits: [5, 1, 2]
+First number: 5
+Last number: 2
+number: 52
+"7mrqgcxbbtwo6seven5oneonesix"
+digits: [7, 6, 5]
+First number: 7
+Last number: 5
+number: 75
+"hjnq8vbshrbxeight9sixlxznhqgcc"
+digits: [8, 9]
+First number: 8
+Last number: 9
+number: 89
+"sixzq9nnq4lxzhzmzjmnbtfbkf"
+digits: [9, 4]
+First number: 9
+Last number: 4
+number: 94
+"vfjhmf3ksgnlzzhsdtwotg9eight"
+digits: [3, 9]
+First number: 3
+Last number: 9
+number: 39
+"ddztjmr453qghvzrtsgf"
+digits: [4, 5, 3]
+First number: 4
+Last number: 3
+number: 43
+"55lzcrzseven39"
+digits: [5, 5, 3, 9]
+First number: 5
+Last number: 9
+number: 59
+"onecggvnjfpone27qrzcrxvp6"
+digits: [2, 7, 6]
+First number: 2
+Last number: 6
+number: 26
+"286hfzchgcgtcqhr"
+digits: [2, 8, 6]
+First number: 2
+Last number: 6
+number: 26
+"ngeighteightfive5mbdn"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"l1five"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"712onekndmfive6ntrmsk8eightwop"
+digits: [7, 1, 2, 6, 8]
+First number: 7
+Last number: 8
+number: 78
+"hqgfive512fourhgrm"
+digits: [5, 1, 2]
+First number: 5
+Last number: 2
+number: 52
+"vpdvhpkngnntqptmsevenoneseven619"
+digits: [6, 1, 9]
+First number: 6
+Last number: 9
+number: 69
+"ninesevenckpjpxszfv1jzxtptvrdkfourfour"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"tjlcs5onetxfkq6hzfklslthreeeight"
+digits: [5, 6]
+First number: 5
+Last number: 6
+number: 56
+"mxjrssqxt7one7hnffgqcgsthree"
+digits: [7, 7]
+First number: 7
+Last number: 7
+number: 77
+"onefsxjsnzxncsix1rr"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"four725deight"
+digits: [7, 2, 5]
+First number: 7
+Last number: 5
+number: 75
+"sgssrlckfourprpsix5rktmjhxksgmvdqmnkndjls"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"75eightr6three"
+digits: [7, 5, 6]
+First number: 7
+Last number: 6
+number: 76
+"6threesixx1sixsixcbxxcxvnhsgl"
+digits: [6, 1]
+First number: 6
+Last number: 1
+number: 61
+"4fiveeightkj9fivemqzvcc"
+digits: [4, 9]
+First number: 4
+Last number: 9
+number: 49
+"ncgqljseveneight61nbcv"
+digits: [6, 1]
+First number: 6
+Last number: 1
+number: 61
+"three83pnineskc"
+digits: [8, 3]
+First number: 8
+Last number: 3
+number: 83
+"fivehninesevensix5"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"five617twosr6nine"
+digits: [6, 1, 7, 6]
+First number: 6
+Last number: 6
+number: 66
+"ncjjfvzzmghgq8"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"2n48twodpnpgq"
+digits: [2, 4, 8]
+First number: 2
+Last number: 8
+number: 28
+"qpgnxtvhq1jcvtxlfkfour6eighttwoztzddkmpbk"
+digits: [1, 6]
+First number: 1
+Last number: 6
+number: 16
+"fivevhfxpjtmdj2ninesevennine9two"
+digits: [2, 9]
+First number: 2
+Last number: 9
+number: 29
+"fivejtxmg4hbctmpnntlpbzfmxqgthreejbjdb"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"4xgrzszmhx"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"28four78tmrkfndeighteightwonq"
+digits: [2, 8, 7, 8]
+First number: 2
+Last number: 8
+number: 28
+"zvnxmbtjqzblnine3five"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"slmt6onetwo5sixfour"
+digits: [6, 5]
+First number: 6
+Last number: 5
+number: 65
+"bthreenine3five"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"3fxjfivevcdmmphtrccptz"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"8fourksxxsixsevenseventwofour"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"fpxvbdgqxzdzxone7threeptgzhhqmkxmseven"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"9six654"
+digits: [9, 6, 5, 4]
+First number: 9
+Last number: 4
+number: 94
+"foursix6559"
+digits: [6, 5, 5, 9]
+First number: 6
+Last number: 9
+number: 69
+"9fvsdcbmmghfive8one8oneone"
+digits: [9, 8, 8]
+First number: 9
+Last number: 8
+number: 98
+"dlxcsjmcjpmmjr64onegtkkqkmhkl1"
+digits: [6, 4, 1]
+First number: 6
+Last number: 1
+number: 61
+"pxkqbgdfour89"
+digits: [8, 9]
+First number: 8
+Last number: 9
+number: 89
+"nn88"
+digits: [8, 8]
+First number: 8
+Last number: 8
+number: 88
+"6sixthree"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"1zxszmgmfg9drnjzd"
+digits: [1, 9]
+First number: 1
+Last number: 9
+number: 19
+"eight8onetvgzfzfjqlqtwo2dfhtwo"
+digits: [8, 2]
+First number: 8
+Last number: 2
+number: 82
+"kcgzq8cxdqphsglsixfivefourdbsjjmdtnxrzt"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"4threenine3dpflrrtmt"
+digits: [4, 3]
+First number: 4
+Last number: 3
+number: 43
+"one83five"
+digits: [8, 3]
+First number: 8
+Last number: 3
+number: 83
+"8sixthreetwonez"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"3fxnhqrrseven"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"seven4onetwo"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"fourbvnvbnineqggx5twovbdzztqccjhqqqnine"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"qzcdgvninejbrfoursixseven24"
+digits: [2, 4]
+First number: 2
+Last number: 4
+number: 24
+"vknqxgpgxnl2mrmbxprseven"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"kfggmlcht8sevenfourkbtdzstpsnine"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"kxzhchjh77sixmvtceight4seven"
+digits: [7, 7, 4]
+First number: 7
+Last number: 4
+number: 74
+"five17"
+digits: [1, 7]
+First number: 1
+Last number: 7
+number: 17
+"eightdgkcrphqsndn7fivevkstrsprktqdrdxqslmjtz"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"2njqktntzjtwo7"
+digits: [2, 7]
+First number: 2
+Last number: 7
+number: 27
+"four66"
+digits: [6, 6]
+First number: 6
+Last number: 6
+number: 66
+"975eightnczdclht"
+digits: [9, 7, 5]
+First number: 9
+Last number: 5
+number: 95
+"twofour1mlbpb6d"
+digits: [1, 6]
+First number: 1
+Last number: 6
+number: 16
+"ddleightwo64"
+digits: [6, 4]
+First number: 6
+Last number: 4
+number: 64
+"2239gksfnlvtg1"
+digits: [2, 2, 3, 9, 1]
+First number: 2
+Last number: 1
+number: 21
+"jqrmqdkv1mhsjbqhhhjrvftwofour6"
+digits: [1, 6]
+First number: 1
+Last number: 6
+number: 16
+"fjglfourone74nlxzmxfkbn3three"
+digits: [7, 4, 3]
+First number: 7
+Last number: 3
+number: 73
+"6pseven1"
+digits: [6, 1]
+First number: 6
+Last number: 1
+number: 61
+"1nscmsconek3"
+digits: [1, 3]
+First number: 1
+Last number: 3
+number: 13
+"r182nine23"
+digits: [1, 8, 2, 2, 3]
+First number: 1
+Last number: 3
+number: 13
+"rqvstbf5seven1"
+digits: [5, 1]
+First number: 5
+Last number: 1
+number: 51
+"mmtrqgddjone2"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"n23fivelvprvxstrct5"
+digits: [2, 3, 5]
+First number: 2
+Last number: 5
+number: 25
+"loneightgmlqfl7nineqrtmzdbbjmnfivepqhgtmb"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"sixfivefourtwoone3"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"five39hjjcjktlcsixfive7eight"
+digits: [3, 9, 7]
+First number: 3
+Last number: 7
+number: 37
+"sixeightthree5three"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"5threeninebnbgxvnmfknp2dhbdb7nine"
+digits: [5, 2, 7]
+First number: 5
+Last number: 7
+number: 57
+"5cpljvtxtpbvzbdrdvsdgc23sixtwo"
+digits: [5, 2, 3]
+First number: 5
+Last number: 3
+number: 53
+"4fiverlflt549"
+digits: [4, 5, 4, 9]
+First number: 4
+Last number: 9
+number: 49
+"two1onefoursixmzm"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"4eightjksktjdvxsckgllpzdvblssix"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"xsxkj81vkstvjjtm5sevenfive"
+digits: [8, 1, 5]
+First number: 8
+Last number: 5
+number: 85
+"8943qxpcfqpnqtwo"
+digits: [8, 9, 4, 3]
+First number: 8
+Last number: 3
+number: 83
+"58qnrthreethree1eight5"
+digits: [5, 8, 1, 5]
+First number: 5
+Last number: 5
+number: 55
+"6gqcfk"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"49lxnllkqrdgcxdrfv"
+digits: [4, 9]
+First number: 4
+Last number: 9
+number: 49
+"94nine7six8nine"
+digits: [9, 4, 7, 8]
+First number: 9
+Last number: 8
+number: 98
+"55six6dgshxnn"
+digits: [5, 5, 6]
+First number: 5
+Last number: 6
+number: 56
+"sixthreeeightfourbgnhsnjone1"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"nine3qmpnnzldoneddthreethree"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"14ljmrtmhmeight8"
+digits: [1, 4, 8]
+First number: 1
+Last number: 8
+number: 18
+"onetwo4eight31loneighttc"
+digits: [4, 3, 1]
+First number: 4
+Last number: 1
+number: 41
+"jnkg8lbjjvclcvmbseven3tdvnmrp"
+digits: [8, 3]
+First number: 8
+Last number: 3
+number: 83
+"7qxklg"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"7dtwosixthree6"
+digits: [7, 6]
+First number: 7
+Last number: 6
+number: 76
+"sevenfivesixsgltjpcnthree2"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"15rzct"
+digits: [1, 5]
+First number: 1
+Last number: 5
+number: 15
+"tfn4ninevt74nine"
+digits: [4, 7, 4]
+First number: 4
+Last number: 4
+number: 44
+"1fiveseven68hztpthreexlbbgbqffvthree"
+digits: [1, 6, 8]
+First number: 1
+Last number: 8
+number: 18
+"svqjgxnmxlpfjc95"
+digits: [9, 5]
+First number: 9
+Last number: 5
+number: 95
+"nine9bn3njvhp9eight2"
+digits: [9, 3, 9, 2]
+First number: 9
+Last number: 2
+number: 92
+"92six1threeeightwot"
+digits: [9, 2, 1]
+First number: 9
+Last number: 1
+number: 91
+"sixfour2nine"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"nine1bstseven45snndcpmtbq"
+digits: [1, 4, 5]
+First number: 1
+Last number: 5
+number: 15
+"onesix4rkrglcvmvb"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"tjccltxqljfourcfbtcqtjd1"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"fourgqjb7sixeightseven6"
+digits: [7, 6]
+First number: 7
+Last number: 6
+number: 76
+"6four99nine8dfjp2dhzsfgt"
+digits: [6, 9, 9, 8, 2]
+First number: 6
+Last number: 2
+number: 62
+"7kfgzrxgm7"
+digits: [7, 7]
+First number: 7
+Last number: 7
+number: 77
+"3nn3"
+digits: [3, 3]
+First number: 3
+Last number: 3
+number: 33
+"eightfzqvgrr1skhnqntgvv"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"8fmghkjzmrkpthcrk6eight9two1"
+digits: [8, 6, 9, 1]
+First number: 8
+Last number: 1
+number: 81
+"qgvgggrmnine3rl9rnf"
+digits: [3, 9]
+First number: 3
+Last number: 9
+number: 39
+"seven6jvjfkr"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"ninetwofourlsbdlmlnsixb9"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"khqtjbkpdvrdnine6three"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"pzninebmxq1onefourqtztvzlxf"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"seven1sixcjcbfv3ninenine"
+digits: [1, 3]
+First number: 1
+Last number: 3
+number: 13
+"ngtsvjgmcg5mssqdgtsdrqff"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"1vshninetwolfbfhckb1vfkxv"
+digits: [1, 1]
+First number: 1
+Last number: 1
+number: 11
+"1six3five"
+digits: [1, 3]
+First number: 1
+Last number: 3
+number: 13
+"93hsvjggzqcgjbqjvpnine6"
+digits: [9, 3, 6]
+First number: 9
+Last number: 6
+number: 96
+"dtwo4onefpthree18"
+digits: [4, 1, 8]
+First number: 4
+Last number: 8
+number: 48
+"4fourfive"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"nnplsdmt962"
+digits: [9, 6, 2]
+First number: 9
+Last number: 2
+number: 92
+"five83rzgdpc322threesix"
+digits: [8, 3, 3, 2, 2]
+First number: 8
+Last number: 2
+number: 82
+"3hcqbfiveppvzvtcbjnvqjz"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"khh4one2sg"
+digits: [4, 2]
+First number: 4
+Last number: 2
+number: 42
+"pdtltjqgqzfive8sixone9vhnzbvfnxz"
+digits: [8, 9]
+First number: 8
+Last number: 9
+number: 89
+"xtrxkfive83three"
+digits: [8, 3]
+First number: 8
+Last number: 3
+number: 83
+"three75kjjxsixfivefive5scjbbflf"
+digits: [7, 5, 5]
+First number: 7
+Last number: 5
+number: 75
+"ljfcdxktbnmvbspglnjfive483"
+digits: [4, 8, 3]
+First number: 4
+Last number: 3
+number: 43
+"eightonespmnrznpptmjvh68eight8"
+digits: [6, 8, 8]
+First number: 6
+Last number: 8
+number: 68
+"qznqkgvkhlssszmdlvjdjjtbgz2"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"6sixfourfbxrxfbv9hldlseven"
+digits: [6, 9]
+First number: 6
+Last number: 9
+number: 69
+"3qzjrffxdthreeoneightbc"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"three4tfseven2sb"
+digits: [4, 2]
+First number: 4
+Last number: 2
+number: 42
+"nine87rvkdgmpt"
+digits: [8, 7]
+First number: 8
+Last number: 7
+number: 87
+"84threetwobjfzvncrkfour"
+digits: [8, 4]
+First number: 8
+Last number: 4
+number: 84
+"eightsix9plxkppkgpzkfive"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"2eight4526"
+digits: [2, 4, 5, 2, 6]
+First number: 2
+Last number: 6
+number: 26
+"hdmqlgnphg1two11"
+digits: [1, 1, 1]
+First number: 1
+Last number: 1
+number: 11
+"ninekxlrjmmkm34sfvrdlb76lkbzprhnchrz"
+digits: [3, 4, 7, 6]
+First number: 3
+Last number: 6
+number: 36
+"9one26txfggnctgfive"
+digits: [9, 2, 6]
+First number: 9
+Last number: 6
+number: 96
+"7pzrqmfivev"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"ddqknbqxnrxlcrhcmhmr5"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"eightsix121twohbtkjqljkprzdsmnv"
+digits: [1, 2, 1]
+First number: 1
+Last number: 1
+number: 11
+"7eight2twoqblcpqqfckfour1"
+digits: [7, 2, 1]
+First number: 7
+Last number: 1
+number: 71
+"cbnpcjljfninenine9"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"73eight3eightzfzjs"
+digits: [7, 3, 3]
+First number: 7
+Last number: 3
+number: 73
+"szfsgstdmtwo2sixjkgxrxbtpdbkt"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"one722"
+digits: [7, 2, 2]
+First number: 7
+Last number: 2
+number: 72
+"76eightrvs"
+digits: [7, 6]
+First number: 7
+Last number: 6
+number: 76
+"five6two7rcss5eightone"
+digits: [6, 7, 5]
+First number: 6
+Last number: 5
+number: 65
+"9ckcnzponebnpjlznbrfxnkvfpsevenonebz3"
+digits: [9, 3]
+First number: 9
+Last number: 3
+number: 93
+"sixninedbtpcrz148tzvbhxjk"
+digits: [1, 4, 8]
+First number: 1
+Last number: 8
+number: 18
+"5zlpdbxk72twotlp6qbkpvjx"
+digits: [5, 7, 2, 6]
+First number: 5
+Last number: 6
+number: 56
+"3three4sjgfjzzone8xmeight"
+digits: [3, 4, 8]
+First number: 3
+Last number: 8
+number: 38
+"56tkmpbmsix5seven7"
+digits: [5, 6, 5, 7]
+First number: 5
+Last number: 7
+number: 57
+"nineeighttqrntnvxrrbkpftwovclttztwo7two"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"bsxdzgxkcx5five6twoqlbqgjzbc"
+digits: [5, 6]
+First number: 5
+Last number: 6
+number: 56
+"five22hhlpfiveeight8vrkjcstx6"
+digits: [2, 2, 8, 6]
+First number: 2
+Last number: 6
+number: 26
+"2psmkkxflgfoursixhjmdxfccbxqb"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"25kljltwoneggk"
+digits: [2, 5]
+First number: 2
+Last number: 5
+number: 25
+"3fhtjzffgfph8twozr"
+digits: [3, 8]
+First number: 3
+Last number: 8
+number: 38
+"eightsevenfbzlr7rqfivefour"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"one3fourninerl49rlvgnmtlcp"
+digits: [3, 4, 9]
+First number: 3
+Last number: 9
+number: 39
+"vrzcnn79txgxf5five2cftclqsg8"
+digits: [7, 9, 5, 2, 8]
+First number: 7
+Last number: 8
+number: 78
+"kbbptjpbvvzcxrsix45prvjcq"
+digits: [4, 5]
+First number: 4
+Last number: 5
+number: 45
+"one3ninefour2vcpdfkbnineeight"
+digits: [3, 2]
+First number: 3
+Last number: 2
+number: 32
+"lx1"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"1oneqphkrtwojczlpmcjseven38oneightgm"
+digits: [1, 3, 8]
+First number: 1
+Last number: 8
+number: 18
+"xsnzjbzfmb685ninezmgzfkzvpzj5six"
+digits: [6, 8, 5, 5]
+First number: 6
+Last number: 5
+number: 65
+"547six"
+digits: [5, 4, 7]
+First number: 5
+Last number: 7
+number: 57
+"21five6z9"
+digits: [2, 1, 6, 9]
+First number: 2
+Last number: 9
+number: 29
+"5nqcsix1seven9"
+digits: [5, 1, 9]
+First number: 5
+Last number: 9
+number: 59
+"nine4fbfprrfivevdvjphcqkfourthree"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"9243five"
+digits: [9, 2, 4, 3]
+First number: 9
+Last number: 3
+number: 93
+"84zmtwothree"
+digits: [8, 4]
+First number: 8
+Last number: 4
+number: 84
+"5c"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"17three"
+digits: [1, 7]
+First number: 1
+Last number: 7
+number: 17
+"5gvfxttjch74eight"
+digits: [5, 7, 4]
+First number: 5
+Last number: 4
+number: 54
+"ninegs7hxmgmrzsx"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"dzxzfknlk5ddgsbsh"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"475cbbqscvfive"
+digits: [4, 7, 5]
+First number: 4
+Last number: 5
+number: 45
+"twovjtkcxpxlvqhvgsqfzmthreecg1rctndlmm"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"nine7eight"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"eightoneninethreebccrmone9six"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"twohbjxlfxdd4462"
+digits: [4, 4, 6, 2]
+First number: 4
+Last number: 2
+number: 42
+"2fivesixdrcmbksthree"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"24sevenk7"
+digits: [2, 4, 7]
+First number: 2
+Last number: 7
+number: 27
+"3sixsix28"
+digits: [3, 2, 8]
+First number: 3
+Last number: 8
+number: 38
+"four66vvjvqhhbhr4"
+digits: [6, 6, 4]
+First number: 6
+Last number: 4
+number: 64
+"seven4fourfourprhplxheightxkgvgghlseven4"
+digits: [4, 4]
+First number: 4
+Last number: 4
+number: 44
+"ninegtsqsnk7fourzlmnv9"
+digits: [7, 9]
+First number: 7
+Last number: 9
+number: 79
+"gpr3q5twoninebqnr6"
+digits: [3, 5, 6]
+First number: 3
+Last number: 6
+number: 36
+"rxhkdtwo8three2"
+digits: [8, 2]
+First number: 8
+Last number: 2
+number: 82
+"jljtwonesevenkckbv9four"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"4scdjjmkpf33"
+digits: [4, 3, 3]
+First number: 4
+Last number: 3
+number: 43
+"vjfourzrlthreeseventbbzrm8n"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"two1fourxqlfqbhszveightrqcsprdonenine"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"mmppkfd745ninexfour"
+digits: [7, 4, 5]
+First number: 7
+Last number: 5
+number: 75
+"fxeightwo5tftddm8onexpeight"
+digits: [5, 8]
+First number: 5
+Last number: 8
+number: 58
+"xdbmf415cq92dhmmc"
+digits: [4, 1, 5, 9, 2]
+First number: 4
+Last number: 2
+number: 42
+"nine3onedcvqdvhtqninepczfhhgbmzeight2"
+digits: [3, 2]
+First number: 3
+Last number: 2
+number: 32
+"ffsix6seven5ninelg"
+digits: [6, 5]
+First number: 6
+Last number: 5
+number: 65
+"xtzsnzlvvztq64zhkklcgjrfourlztxlbtgxn9qcx"
+digits: [6, 4, 9]
+First number: 6
+Last number: 9
+number: 69
+"six1nbqxmq2nxhtvrnrbsflzlztghfzjgfnhmeightone"
+digits: [1, 2]
+First number: 1
+Last number: 2
+number: 12
+"558"
+digits: [5, 5, 8]
+First number: 5
+Last number: 8
+number: 58
+"xnhsbblmlp9sevensix"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"jz8eightonemrbchzmhrjcv"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"3twoktr"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"6fourtwosixthree"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"sixfivefour7"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"ljbx2nine63four"
+digits: [2, 6, 3]
+First number: 2
+Last number: 3
+number: 23
+"889g7sixtwoone7"
+digits: [8, 8, 9, 7, 7]
+First number: 8
+Last number: 7
+number: 87
+"four4one7cztqmheightwompd"
+digits: [4, 7]
+First number: 4
+Last number: 7
+number: 47
+"ctqnhkqzxgtxrgfzvone45eightfbvjlgkc"
+digits: [4, 5]
+First number: 4
+Last number: 5
+number: 45
+"8eight35two5"
+digits: [8, 3, 5, 5]
+First number: 8
+Last number: 5
+number: 85
+"6pvzljrvseven5eight"
+digits: [6, 5]
+First number: 6
+Last number: 5
+number: 65
+"7zhgjds1"
+digits: [7, 1]
+First number: 7
+Last number: 1
+number: 71
+"mxv7dtbsbzfive"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"4sqhcsjb6"
+digits: [4, 6]
+First number: 4
+Last number: 6
+number: 46
+"954threeoners"
+digits: [9, 5, 4]
+First number: 9
+Last number: 4
+number: 94
+"63three9zltqkmpbqqpd"
+digits: [6, 3, 9]
+First number: 6
+Last number: 9
+number: 69
+"6sjknine6phmcxrv1three"
+digits: [6, 6, 1]
+First number: 6
+Last number: 1
+number: 61
+"threeoneprqcmzrbjjvlvsf2"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"gbgfr2fivehsplpdnccxkfz"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"ninefnpxtgzhzvdnr7rftghqrhpv"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"seven2fourfive2"
+digits: [2, 2]
+First number: 2
+Last number: 2
+number: 22
+"8sixeight"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"gcfjqqgbcdp33five42q"
+digits: [3, 3, 4, 2]
+First number: 3
+Last number: 2
+number: 32
+"fourfourbkrj3fourfivevlpvqbkgvxcfnlnbs"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"tcgzqgqq77two"
+digits: [7, 7]
+First number: 7
+Last number: 7
+number: 77
+"nvzgmddmhseven1zbdfjrt17"
+digits: [1, 1, 7]
+First number: 1
+Last number: 7
+number: 17
+"seven8fiveninethree48"
+digits: [8, 4, 8]
+First number: 8
+Last number: 8
+number: 88
+"7five8"
+digits: [7, 8]
+First number: 7
+Last number: 8
+number: 78
+"nine3twoeightfgdkbtph"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"dzlblf4ninetwoqqj4onetvpbbfdcbvtwo"
+digits: [4, 4]
+First number: 4
+Last number: 4
+number: 44
+"mcmbfvszjltlzdg7zxzzlrrvfbthreeninethreefdtsvclt"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"8mzcseventwoeight9kjchpd"
+digits: [8, 9]
+First number: 8
+Last number: 9
+number: 89
+"sgpddvmkntwo9two"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"sevencgqkbcsh5"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"13nine723twofour"
+digits: [1, 3, 7, 2, 3]
+First number: 1
+Last number: 3
+number: 13
+"twodpdvppxntseventwooneseven1"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"9jjpxjpxdxxkqjseven"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"4seven1five"
+digits: [4, 1]
+First number: 4
+Last number: 1
+number: 41
+"2nineckczklc5h"
+digits: [2, 5]
+First number: 2
+Last number: 5
+number: 25
+"threekplnxmcjffhpfdhhhvsvsx62zrmbcpgj"
+digits: [6, 2]
+First number: 6
+Last number: 2
+number: 62
+"35"
+digits: [3, 5]
+First number: 3
+Last number: 5
+number: 35
+"8gthree"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"nineffourninethree6two8"
+digits: [6, 8]
+First number: 6
+Last number: 8
+number: 68
+"1vsmthree67fourchzmone"
+digits: [1, 6, 7]
+First number: 1
+Last number: 7
+number: 17
+"bxnrzblqnv9xprtmvnfivevkdvqmvfhgxconezvzjlxgjhp"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"xtqsevenfive7fourmclszsmnqz5"
+digits: [7, 5]
+First number: 7
+Last number: 5
+number: 75
+"vrxnrvfivegjlqrbdtkksz9"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"ninefszbsfnhbzzqhbkvxjfive7sixfive5q"
+digits: [7, 5]
+First number: 7
+Last number: 5
+number: 75
+"eight38nklfskv3sb"
+digits: [3, 8, 3]
+First number: 3
+Last number: 3
+number: 33
+"5six4three"
+digits: [5, 4]
+First number: 5
+Last number: 4
+number: 54
+"onezhpqfxgsz3stfsldzdhh"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"qdtwone72"
+digits: [7, 2]
+First number: 7
+Last number: 2
+number: 72
+"fttvpkjsf8"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"8twodxeightbltlrvjjbs"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"sixninesixfourxzvf5"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"85twokqdh2skxgnnnnsevenzg"
+digits: [8, 5, 2]
+First number: 8
+Last number: 2
+number: 82
+"lsjqvnfive4eightjbjceight3"
+digits: [4, 3]
+First number: 4
+Last number: 3
+number: 43
+"5eightnineglvjmdgjvt4"
+digits: [5, 4]
+First number: 5
+Last number: 4
+number: 54
+"cfhxfnvnsixfour8twosixsixtwo"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"hmp27seveneightsix"
+digits: [2, 7]
+First number: 2
+Last number: 7
+number: 27
+"5two6"
+digits: [5, 6]
+First number: 5
+Last number: 6
+number: 56
+"d37sixeighteight"
+digits: [3, 7]
+First number: 3
+Last number: 7
+number: 37
+"9fdbkdm86two"
+digits: [9, 8, 6]
+First number: 9
+Last number: 6
+number: 96
+"4threefbsjzzkthree723"
+digits: [4, 7, 2, 3]
+First number: 4
+Last number: 3
+number: 43
+"dgzvfszqpkfpxmvqf7onethree"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"eight2fkskmljrg12kschgbrbtgmkbdzseven"
+digits: [2, 1, 2]
+First number: 2
+Last number: 2
+number: 22
+"5sbdhqrsftwoqlfqblrvgghbps6ln"
+digits: [5, 6]
+First number: 5
+Last number: 6
+number: 56
+"2pkmljtwospqdnflmj"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"nine1eighthgccrfourseven9"
+digits: [1, 9]
+First number: 1
+Last number: 9
+number: 19
+"eightjbptmtmmvsevenseven6fourfive"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"6threeseven6eightdsbpjzc9jsmtxdfour"
+digits: [6, 6, 9]
+First number: 6
+Last number: 9
+number: 69
+"4ninextnv"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"threeqjrdnfjlpnine55"
+digits: [5, 5]
+First number: 5
+Last number: 5
+number: 55
+"1psdrj3g2msfsjktgkv61"
+digits: [1, 3, 2, 6, 1]
+First number: 1
+Last number: 1
+number: 11
+"sevenfive9xhdcthreenine9jctjthree"
+digits: [9, 9]
+First number: 9
+Last number: 9
+number: 99
+"636"
+digits: [6, 3, 6]
+First number: 6
+Last number: 6
+number: 66
+"2threeseven"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"nnxzzcgrhcgtz4ttnfive"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"seven9sixone2fbbdfqtdfg"
+digits: [9, 2]
+First number: 9
+Last number: 2
+number: 92
+"4jgdxjqtbqzprpjdbjc2fivethreeonexlgkxtsdmcrrh"
+digits: [4, 2]
+First number: 4
+Last number: 2
+number: 42
+"4threepvzzhkmlmbhzhmtb"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"m5xgplrjqlztvg9"
+digits: [5, 9]
+First number: 5
+Last number: 9
+number: 59
+"59s68ninerrhkrkxnzm"
+digits: [5, 9, 6, 8]
+First number: 5
+Last number: 8
+number: 58
+"hknsnsf6"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"trgpkmkbtlslmpqtdxfourxjspnnmhdtg1nvfxpllcrrbzjrhrstn"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"92twoj7two4six"
+digits: [9, 2, 7, 4]
+First number: 9
+Last number: 4
+number: 94
+"tseven377"
+digits: [3, 7, 7]
+First number: 3
+Last number: 7
+number: 37
+"p49five2"
+digits: [4, 9, 2]
+First number: 4
+Last number: 2
+number: 42
+"kpffiveeightcsbjz39"
+digits: [3, 9]
+First number: 3
+Last number: 9
+number: 39
+"8sdmbrxbk"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"1vxknsvdqnsixkfsevenzqlr9"
+digits: [1, 9]
+First number: 1
+Last number: 9
+number: 19
+"fiveznrsqthpbddfcpbvhhhjctp9"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"plbcxgkd4tmprsxn84hdrninetwo2"
+digits: [4, 8, 4, 2]
+First number: 4
+Last number: 2
+number: 42
+"twoqzqxbkm23brhsppdnvksixtwok"
+digits: [2, 3]
+First number: 2
+Last number: 3
+number: 23
+"8one5"
+digits: [8, 5]
+First number: 8
+Last number: 5
+number: 85
+"six45tdxfmcr6"
+digits: [4, 5, 6]
+First number: 4
+Last number: 6
+number: 46
+"onesix4"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"fxrl57561ktxfsg"
+digits: [5, 7, 5, 6, 1]
+First number: 5
+Last number: 1
+number: 51
+"89nine54fiveeight"
+digits: [8, 9, 5, 4]
+First number: 8
+Last number: 4
+number: 84
+"three62three5one"
+digits: [6, 2, 5]
+First number: 6
+Last number: 5
+number: 65
+"6mjqxh4scvddlls"
+digits: [6, 4]
+First number: 6
+Last number: 4
+number: 64
+"nflfourzrrgpvftoneseven43"
+digits: [4, 3]
+First number: 4
+Last number: 3
+number: 43
+"7sixtf"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"sixxhxkvgnbz3rbdnvgf"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"ckq745ninepqk"
+digits: [7, 4, 5]
+First number: 7
+Last number: 5
+number: 75
+"1snlkqn"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"ninetqvcllfvcfs62qtt6seven"
+digits: [6, 2, 6]
+First number: 6
+Last number: 6
+number: 66
+"59khlmz"
+digits: [5, 9]
+First number: 5
+Last number: 9
+number: 59
+"eightdndsvdcqneight9twonenf"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"zgcnqqmlgsmfzqbkllvsknsevensix5"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"8qqxshjnnsp"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"xfvttdnxhz4sixsjkqhpfszn212three"
+digits: [4, 2, 1, 2]
+First number: 4
+Last number: 2
+number: 42
+"fivelssnmckseven4ftqt"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"2qsqpjmcbtvxjgqhhk"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"tztwone749ninelncrmvthfourpgcbxzxvs"
+digits: [7, 4, 9]
+First number: 7
+Last number: 9
+number: 79
+"4threecgnjpthnsgxhxbffour8eightsvmjkg5"
+digits: [4, 8, 5]
+First number: 4
+Last number: 5
+number: 45
+"458sixseven6one1smkjk"
+digits: [4, 5, 8, 6, 1]
+First number: 4
+Last number: 1
+number: 41
+"seven4fourrgqffqthree7"
+digits: [4, 7]
+First number: 4
+Last number: 7
+number: 47
+"jhpxqpspbsevenhpfnrpdvfoureight5nsbsfscjlzfive9"
+digits: [5, 9]
+First number: 5
+Last number: 9
+number: 59
+"sldxjjnjt5dlhdtrmsixxlmgxhvpscqqthree74"
+digits: [5, 7, 4]
+First number: 5
+Last number: 4
+number: 54
+"8pvfhtpghtwo6"
+digits: [8, 6]
+First number: 8
+Last number: 6
+number: 86
+"nfknjlfive8"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"eight7sevenseven9pdvhsevendzpxpghzr"
+digits: [7, 9]
+First number: 7
+Last number: 9
+number: 79
+"9fgdrgsgdhtwo7238"
+digits: [9, 7, 2, 3, 8]
+First number: 9
+Last number: 8
+number: 98
+"8nfjgxpcbbmjrhh9765dnlbsfddhf"
+digits: [8, 9, 7, 6, 5]
+First number: 8
+Last number: 5
+number: 85
+"tkqfc7sixsixsixggqsevenzrjrxtrnh3"
+digits: [7, 3]
+First number: 7
+Last number: 3
+number: 73
+"fivesix9zmxpjk"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"four1kvhvnhjcgz"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"one6sixthreenh4"
+digits: [6, 4]
+First number: 6
+Last number: 4
+number: 64
+"onesixfourtzkjjlnine1kq8"
+digits: [1, 8]
+First number: 1
+Last number: 8
+number: 18
+"1xkl"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"8six5zbonevbtbmvtjvlfive"
+digits: [8, 5]
+First number: 8
+Last number: 5
+number: 85
+"zmggmrj9eight"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"5sixeight23"
+digits: [5, 2, 3]
+First number: 5
+Last number: 3
+number: 53
+"19twobshhmblpkp68"
+digits: [1, 9, 6, 8]
+First number: 1
+Last number: 8
+number: 18
+"7fivethree22four9tghbrr2"
+digits: [7, 2, 2, 9, 2]
+First number: 7
+Last number: 2
+number: 72
+"gc3"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"6qdkjxgpseveneight1seven"
+digits: [6, 1]
+First number: 6
+Last number: 1
+number: 61
+"7sevenfivegpllcnbvf3khjsqtwoner"
+digits: [7, 3]
+First number: 7
+Last number: 3
+number: 73
+"3fivefive417"
+digits: [3, 4, 1, 7]
+First number: 3
+Last number: 7
+number: 37
+"seventhreefthree96hbrjfxlkrninetwo"
+digits: [9, 6]
+First number: 9
+Last number: 6
+number: 96
+"vhnlzrv4gbdldncbgqrfd5"
+digits: [4, 5]
+First number: 4
+Last number: 5
+number: 45
+"gfjzvfchlzrnf8fivesixthreeninesevenrsfptjcrb"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"6nineninelllzx"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"sevenckthree1"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"8one77four8sixnsmbhbp"
+digits: [8, 7, 7, 8]
+First number: 8
+Last number: 8
+number: 88
+"ltcfm386"
+digits: [3, 8, 6]
+First number: 3
+Last number: 6
+number: 36
+"bcncpxhhgbdtxh19kqkpffqx6"
+digits: [1, 9, 6]
+First number: 1
+Last number: 6
+number: 16
+"pr95"
+digits: [9, 5]
+First number: 9
+Last number: 5
+number: 95
+"eightsix7gbtwofourvclrmgfvph4"
+digits: [7, 4]
+First number: 7
+Last number: 4
+number: 74
+"four6bgzbcthree1kjhkvlh"
+digits: [6, 1]
+First number: 6
+Last number: 1
+number: 61
+"lbffslczqninesevenr6z"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"three6lpjrgbfivexzfkprdf"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"31kmnnffourtwo7dkmmlrdsm"
+digits: [3, 1, 7]
+First number: 3
+Last number: 7
+number: 37
+"six7fivenbljxg6onesevenzmknhdfive"
+digits: [7, 6]
+First number: 7
+Last number: 6
+number: 76
+"32five5sggfive"
+digits: [3, 2, 5]
+First number: 3
+Last number: 5
+number: 35
+"two4four"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"xlf4rtftmttzk4fhrcbxmxlsjzfour"
+digits: [4, 4]
+First number: 4
+Last number: 4
+number: 44
+"fivecxrsccjsgdfpfdgpfsix3sevenqgntlgvds"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"pbdmldone1s"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"threekpzzth3fivernp"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"glglvsnineckckdblscv2one9two3"
+digits: [2, 9, 3]
+First number: 2
+Last number: 3
+number: 23
+"52cvnxlxqdoneone"
+digits: [5, 2]
+First number: 5
+Last number: 2
+number: 52
+"kjdvcklltsttlncvgrfive9fkspxfhchml"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"sfxxlhkbhqnvskxd2five"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"three3ninevndkz2two"
+digits: [3, 2]
+First number: 3
+Last number: 2
+number: 32
+"3two9six9sixfiveoneightf"
+digits: [3, 9, 9]
+First number: 3
+Last number: 9
+number: 39
+"36xq"
+digits: [3, 6]
+First number: 3
+Last number: 6
+number: 36
+"twoeight76"
+digits: [7, 6]
+First number: 7
+Last number: 6
+number: 76
+"3kfsr1tworhvpqn7zmrp3nine"
+digits: [3, 1, 7, 3]
+First number: 3
+Last number: 3
+number: 33
+"tvvtqdcx8eight6three6fqsmnd6"
+digits: [8, 6, 6, 6]
+First number: 8
+Last number: 6
+number: 86
+"3three7"
+digits: [3, 7]
+First number: 3
+Last number: 7
+number: 37
+"2five3eight"
+digits: [2, 3]
+First number: 2
+Last number: 3
+number: 23
+"tmzhzsninetjjpmqdrkh6seven8threenine"
+digits: [6, 8]
+First number: 6
+Last number: 8
+number: 68
+"dsvnxx6"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"8xzllsdpvrjszlhlmrrsixfourninefzncn9pkgdtlb"
+digits: [8, 9]
+First number: 8
+Last number: 9
+number: 89
+"four2eight4bdxhqxnjlfg3hkbkp"
+digits: [2, 4, 3]
+First number: 2
+Last number: 3
+number: 23
+"onehcnf9"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"twosixktskmcppzx4"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"xzeightwo1doneseven7sevensix1"
+digits: [1, 7, 1]
+First number: 1
+Last number: 1
+number: 11
+"fourgbdz85nine"
+digits: [8, 5]
+First number: 8
+Last number: 5
+number: 85
+"21xrsphxlr711mjeight"
+digits: [2, 1, 7, 1, 1]
+First number: 2
+Last number: 1
+number: 21
+"one654four"
+digits: [6, 5, 4]
+First number: 6
+Last number: 4
+number: 64
+"six4sevenxl"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"sixmqhtms6zp99"
+digits: [6, 9, 9]
+First number: 6
+Last number: 9
+number: 69
+"497twofour3two"
+digits: [4, 9, 7, 3]
+First number: 4
+Last number: 3
+number: 43
+"6twoxrjvzhldhfour69twofjjtskmzvls"
+digits: [6, 6, 9]
+First number: 6
+Last number: 9
+number: 69
+"px98skfppldqkpsix"
+digits: [9, 8]
+First number: 9
+Last number: 8
+number: 98
+"7qxone8kzzdlqdmsixtzrhrzrhpeight"
+digits: [7, 8]
+First number: 7
+Last number: 8
+number: 78
+"6eightmdsbrvhnine"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"onesixjxzx1jbfnjhm3"
+digits: [1, 3]
+First number: 1
+Last number: 3
+number: 13
+"threerbslfnzsbtjxfcmtxzjtvbdjnqj2"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"4lbmlrptworkpdtfvnfour"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"2threelkvzmghvdm"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"6vrvcbbqv77"
+digits: [6, 7, 7]
+First number: 6
+Last number: 7
+number: 67
+"gczqmslninepphpbvd896"
+digits: [8, 9, 6]
+First number: 8
+Last number: 6
+number: 86
+"seven77nsnzeight5vzgvmfrxd"
+digits: [7, 7, 5]
+First number: 7
+Last number: 5
+number: 75
+"seven46fourfive1ninechrlthdhvnfn"
+digits: [4, 6, 1]
+First number: 4
+Last number: 1
+number: 41
+"sp2xngkbkqbpvqgd57onenine"
+digits: [2, 5, 7]
+First number: 2
+Last number: 7
+number: 27
+"7oneonenine38hpqntxsz1hxvc"
+digits: [7, 3, 8, 1]
+First number: 7
+Last number: 1
+number: 71
+"nine3sixvrsrvfrseven4"
+digits: [3, 4]
+First number: 3
+Last number: 4
+number: 34
+"seventsvmxxn5sixgm1kdbrkcdfive"
+digits: [5, 1]
+First number: 5
+Last number: 1
+number: 51
+"5eightnfblfbxrkrrmflg5"
+digits: [5, 5]
+First number: 5
+Last number: 5
+number: 55
+"fourxltzjthree2"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"steightwojllrms39threesixvjxflgzkm"
+digits: [3, 9]
+First number: 3
+Last number: 9
+number: 39
+"25ckxsgcgxjf"
+digits: [2, 5]
+First number: 2
+Last number: 5
+number: 25
+"lpsztggf4nine73two5"
+digits: [4, 7, 3, 5]
+First number: 4
+Last number: 5
+number: 45
+"drktgkbkxlqlfvhvr8onesix1qbgjjtcf71"
+digits: [8, 1, 7, 1]
+First number: 8
+Last number: 1
+number: 81
+"4eights14five"
+digits: [4, 1, 4]
+First number: 4
+Last number: 4
+number: 44
+"jqjbzqvxcjqjjjhjjk8llseven1knphmcvnjcsfdzp"
+digits: [8, 1]
+First number: 8
+Last number: 1
+number: 81
+"9qrthreeeightnqpnninexgprcrdsn1rgjt"
+digits: [9, 1]
+First number: 9
+Last number: 1
+number: 91
+"59snmrlfxhsix"
+digits: [5, 9]
+First number: 5
+Last number: 9
+number: 59
+"1286"
+digits: [1, 2, 8, 6]
+First number: 1
+Last number: 6
+number: 16
+"72five81gnc3"
+digits: [7, 2, 8, 1, 3]
+First number: 7
+Last number: 3
+number: 73
+"sixtffnjthreevmhc64one"
+digits: [6, 4]
+First number: 6
+Last number: 4
+number: 64
+"three96fournine4ninezr"
+digits: [9, 6, 4]
+First number: 9
+Last number: 4
+number: 94
+"lrzcgsgdll99"
+digits: [9, 9]
+First number: 9
+Last number: 9
+number: 99
+"qftkzxrlone8sixeightfour"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"eight7seveneight"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"kzkoneightfbptzkfive2sgbcnxg92"
+digits: [2, 9, 2]
+First number: 2
+Last number: 2
+number: 22
+"v5hdone"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"onevzfour75cmzkfhklp"
+digits: [7, 5]
+First number: 7
+Last number: 5
+number: 75
+"cxklnb9fivetbkgjdcvjhqgnmdgrjkmfjqqbjtrzqfdreight3"
+digits: [9, 3]
+First number: 9
+Last number: 3
+number: 93
+"six6twotwolmggvvxrtwo72"
+digits: [6, 7, 2]
+First number: 6
+Last number: 2
+number: 62
+"2kcrxxbzkssixnddqsqsk"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"rpjglmp8onelvzbgvbjxdthreeonelvxdtqnz"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"sevennine6bvdtwo"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"16mseven3twojv"
+digits: [1, 6, 3]
+First number: 1
+Last number: 3
+number: 13
+"hhconeightxrnfvbqhseven3vs"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"sixnine17"
+digits: [1, 7]
+First number: 1
+Last number: 7
+number: 17
+"2lcssbzf1three3eightbvqrsmbh"
+digits: [2, 1, 3]
+First number: 2
+Last number: 3
+number: 23
+"5onezrsvkbpnsix7zjggs4"
+digits: [5, 7, 4]
+First number: 5
+Last number: 4
+number: 54
+"3eightfive"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"cpgtwoneonerhgncphbfsrfplbfhxrmmpfive6"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"4vbsrvggrzxxcxzeighttwo"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"52nine5"
+digits: [5, 2, 5]
+First number: 5
+Last number: 5
+number: 55
+"7fourkczfpeightnine3eight"
+digits: [7, 3]
+First number: 7
+Last number: 3
+number: 73
+"zzleightwo2onecfdsqthreejbcthreerbngllphhsixgp"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"3sixntzmjnrrone"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"3threeeight6bqcsdklzpfmbgxxtjs"
+digits: [3, 6]
+First number: 3
+Last number: 6
+number: 36
+"rrbjsghzclnine833"
+digits: [8, 3, 3]
+First number: 8
+Last number: 3
+number: 83
+"cfbrmlhqvtpxtpdbbcjj6eight"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"6twoqmhkgpktkdprrqxpbphjn"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"cmfv1eight41"
+digits: [1, 4, 1]
+First number: 1
+Last number: 1
+number: 11
+"fsfdjhbeightfoursevenpmqlcf6mvfive"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"qmvq9sevenseven7"
+digits: [9, 7]
+First number: 9
+Last number: 7
+number: 97
+"1sevenjqrsevenfmrsncppbr1six"
+digits: [1, 1]
+First number: 1
+Last number: 1
+number: 11
+"1eightvcpbnsqhcv56eightzthree"
+digits: [1, 5, 6]
+First number: 1
+Last number: 6
+number: 16
+"five8dnxkdbsxvd"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"3l76cbpbdvsix"
+digits: [3, 7, 6]
+First number: 3
+Last number: 6
+number: 36
+"vdvnbr1xzlssevenszdktcqfsqxtv4"
+digits: [1, 4]
+First number: 1
+Last number: 4
+number: 14
+"sixtwo9qngsslvmbv39eight"
+digits: [9, 3, 9]
+First number: 9
+Last number: 9
+number: 99
+"66fjjnc3threexqdctdtkseightbqpphzzm"
+digits: [6, 6, 3]
+First number: 6
+Last number: 3
+number: 63
+"hsqcqb1sjkdhhdltoneeight5one"
+digits: [1, 5]
+First number: 1
+Last number: 5
+number: 15
+"1llpgqdfgseightfvssfive"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"znqqgtlmvxnlcgxr4fourscgzzhz"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"eight9onetx5vzvqln8gxblpkmtkhcl"
+digits: [9, 5, 8]
+First number: 9
+Last number: 8
+number: 98
+"eightczhdvmrlm5pmnlnlnine5hxzmlzntdmqldbnfive"
+digits: [5, 5]
+First number: 5
+Last number: 5
+number: 55
+"one16shmhxdvzbh73dsvgvtpddls"
+digits: [1, 6, 7, 3]
+First number: 1
+Last number: 3
+number: 13
+"5lph98flssjhz"
+digits: [5, 9, 8]
+First number: 5
+Last number: 8
+number: 58
+"2psmflmhcbsrvzfive176"
+digits: [2, 1, 7, 6]
+First number: 2
+Last number: 6
+number: 26
+"qzqz8sevenone"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"fmhgvseven7fivejdqcsznnone"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"415dsgfivethreexlfzccgn"
+digits: [4, 1, 5]
+First number: 4
+Last number: 5
+number: 45
+"qplzvmmhbh598ghnhrmzvxblxncdkrfntvzdtvqr"
+digits: [5, 9, 8]
+First number: 5
+Last number: 8
+number: 58
+"8fdkghntwophfnpzjllfr9"
+digits: [8, 9]
+First number: 8
+Last number: 9
+number: 89
+"6rfstqcmdvq9"
+digits: [6, 9]
+First number: 6
+Last number: 9
+number: 69
+"nmcdsbclthreeonekxnrvqgjxpsevenfour3seven"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"one72rqpfourdcqrlqpcthree"
+digits: [7, 2]
+First number: 7
+Last number: 2
+number: 72
+"onefour6"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"eightoneqqrc18"
+digits: [1, 8]
+First number: 1
+Last number: 8
+number: 18
+"nine3nrscbxlx4fchjdgnlvvfrnf7jfffbggjt"
+digits: [3, 4, 7]
+First number: 3
+Last number: 7
+number: 37
+"four8twofivesbpgjnt"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"8sixtwojhjvhfive"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"ninefg8xrvpbpgbklkbfrqgdloneeight"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"pbdggcfoureight5rdsssnj"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"gxqzltbzfbhfdcqeight3dggjvh9xg9jxq"
+digits: [3, 9, 9]
+First number: 3
+Last number: 9
+number: 39
+"fm6ninesix"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"1four8xkdjzkfthone77"
+digits: [1, 8, 7, 7]
+First number: 1
+Last number: 7
+number: 17
+"fourfourseven514"
+digits: [5, 1, 4]
+First number: 5
+Last number: 4
+number: 54
+"2vfq9vfzxfmsfrxjxhfqrpc"
+digits: [2, 9]
+First number: 2
+Last number: 9
+number: 29
+"zckzxj45onep"
+digits: [4, 5]
+First number: 4
+Last number: 5
+number: 45
+"nine925"
+digits: [9, 2, 5]
+First number: 9
+Last number: 5
+number: 95
+"nineone1eightsixkcd8ndvhj5"
+digits: [1, 8, 5]
+First number: 1
+Last number: 5
+number: 15
+"fourfoureighthbhrnsix5seven"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"mpr9sevenzm5"
+digits: [9, 5]
+First number: 9
+Last number: 5
+number: 95
+"two415"
+digits: [4, 1, 5]
+First number: 4
+Last number: 5
+number: 45
+"two2ddgkzt66sevenmdzhdzhdmzjmvrrnd"
+digits: [2, 6, 6]
+First number: 2
+Last number: 6
+number: 26
+"vntvkmtqm252"
+digits: [2, 5, 2]
+First number: 2
+Last number: 2
+number: 22
+"bktbrctxtwoqbjls7"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"seventwo26"
+digits: [2, 6]
+First number: 2
+Last number: 6
+number: 26
+"22threezlhpkpmzsnbshpgt"
+digits: [2, 2]
+First number: 2
+Last number: 2
+number: 22
+"1pktkpfppxbjf8"
+digits: [1, 8]
+First number: 1
+Last number: 8
+number: 18
+"one1jzlvq"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"24fivek4"
+digits: [2, 4, 4]
+First number: 2
+Last number: 4
+number: 24
+"84two"
+digits: [8, 4]
+First number: 8
+Last number: 4
+number: 84
+"1sevensixeight13pvp2"
+digits: [1, 1, 3, 2]
+First number: 1
+Last number: 2
+number: 12
+"xvndrn85k5nr6nzgcdhlzvf8"
+digits: [8, 5, 5, 6, 8]
+First number: 8
+Last number: 8
+number: 88
+"ninefour1"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"rhztwosix7"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"eight4five5sevenlzbhmsprsj"
+digits: [4, 5]
+First number: 4
+Last number: 5
+number: 45
+"7seven1kmzsjl8jpdssncpvcjxczdvsk4six"
+digits: [7, 1, 8, 4]
+First number: 7
+Last number: 4
+number: 74
+"zcmpfqzfxlfsxkmscs4lctqonepjkg4nine"
+digits: [4, 4]
+First number: 4
+Last number: 4
+number: 44
+"8onesevenzlxflf9four"
+digits: [8, 9]
+First number: 8
+Last number: 9
+number: 89
+"threefoursix3five"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"292mhsbgktzmlqk1fourone4"
+digits: [2, 9, 2, 1, 4]
+First number: 2
+Last number: 4
+number: 24
+"pnnftwo5"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"kpjmxmseven6"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"fiveonetwoqbptwo4hmzhhfmvfqbgjk"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"one4bkzjstxgrv2dvzbdfztfive7three9"
+digits: [4, 2, 7, 9]
+First number: 4
+Last number: 9
+number: 49
+"monetwo6fbxbphkpdtwo2ninenvphvnxhxk"
+digits: [6, 2]
+First number: 6
+Last number: 2
+number: 62
+"6mgmbthree9bnine3seven5"
+digits: [6, 9, 3, 5]
+First number: 6
+Last number: 5
+number: 65
+"eightvsfnsdkgh7fourninernvkrfcx"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"fourxglll561"
+digits: [5, 6, 1]
+First number: 5
+Last number: 1
+number: 51
+"3eightsixeight72six7"
+digits: [3, 7, 2, 7]
+First number: 3
+Last number: 7
+number: 37
+"4fiveflsgrgznjfbsvgvbrgnm"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"763"
+digits: [7, 6, 3]
+First number: 7
+Last number: 3
+number: 73
+"nine57qmhfgctmnp"
+digits: [5, 7]
+First number: 5
+Last number: 7
+number: 57
+"eight579xgpsr"
+digits: [5, 7, 9]
+First number: 5
+Last number: 9
+number: 59
+"sbpbb215jnsfoursix"
+digits: [2, 1, 5]
+First number: 2
+Last number: 5
+number: 25
+"dfghm9mrcpfthree974"
+digits: [9, 9, 7, 4]
+First number: 9
+Last number: 4
+number: 94
+"bh7threeqvhttfqt"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"seven7kssmdclhfd"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"qdltfdhsvz5threekftjfdqbn"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"four8dxncfjhvpsxdseven3kcpmpfvnfb"
+digits: [8, 3]
+First number: 8
+Last number: 3
+number: 83
+"nine1eightwox"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"vvcfdjlpcrfnnmbcx4eight9mtcfqqqfl5fourfive"
+digits: [4, 9, 5]
+First number: 4
+Last number: 5
+number: 45
+"qbcxpccssl9kvqtjncjdxsrpp8sixbnmq"
+digits: [9, 8]
+First number: 9
+Last number: 8
+number: 98
+"sixonexjgqthdnrpfivetgnxqv1"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"eightthree33ngpkqtqgtkmcfgqqgj313"
+digits: [3, 3, 3, 1, 3]
+First number: 3
+Last number: 3
+number: 33
+"onezfnlseven1"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"2threefhcs"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"3nineeightzmpvjqrvcb1tkmchzjtsrfllv"
+digits: [3, 1]
+First number: 3
+Last number: 1
+number: 31
+"58cjnxhzfknnkj4ninezvskrvrc"
+digits: [5, 8, 4]
+First number: 5
+Last number: 4
+number: 54
+"hthree16zdtbfnlx"
+digits: [1, 6]
+First number: 1
+Last number: 6
+number: 16
+"tzqcksevenfour3foursix5"
+digits: [3, 5]
+First number: 3
+Last number: 5
+number: 35
+"qbbzz1threesevenone"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"onegfzhlthree12"
+digits: [1, 2]
+First number: 1
+Last number: 2
+number: 12
+"gpjjzfiveone21qbrjdrz7"
+digits: [2, 1, 7]
+First number: 2
+Last number: 7
+number: 27
+"xcpjznj54fivesevenfiveq"
+digits: [5, 4]
+First number: 5
+Last number: 4
+number: 54
+"gsevenflcgfcmqtrzstrmnine9two"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"7nrsmkbqffnnvfpjgb"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"tfhnnmpbzq67six"
+digits: [6, 7]
+First number: 6
+Last number: 7
+number: 67
+"52jhltfzqhfprmtgbmhg"
+digits: [5, 2]
+First number: 5
+Last number: 2
+number: 52
+"vchpblqmsvffourzkndtsg7"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"eightsevenvgfpttr62hmfzf4f"
+digits: [6, 2, 4]
+First number: 6
+Last number: 4
+number: 64
+"eight4four1tsvfq"
+digits: [4, 1]
+First number: 4
+Last number: 1
+number: 41
+"4sevensix"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"vrkmjrrxnbgjbxfqxllp17four1bdm6"
+digits: [1, 7, 1, 6]
+First number: 1
+Last number: 6
+number: 16
+"2kqfd4threefour5"
+digits: [2, 4, 5]
+First number: 2
+Last number: 5
+number: 25
+"44m"
+digits: [4, 4]
+First number: 4
+Last number: 4
+number: 44
+"foursevenrxzjfftwo5twothree"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"eight4xbxqplmknhjhzm9fivetwozjrzjp"
+digits: [4, 9]
+First number: 4
+Last number: 9
+number: 49
+"twojtjvdmgkjsstbdgl3bhhhzvllm6qxpzxjbgn"
+digits: [3, 6]
+First number: 3
+Last number: 6
+number: 36
+"sixeight3sevenone"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"sixfour5m5"
+digits: [5, 5]
+First number: 5
+Last number: 5
+number: 55
+"fqlftfrtsj9"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"rpjlhht2xxnnkqktkxteightsevensix"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"five3vbklfdmpsevenone2thxcmzktlz"
+digits: [3, 2]
+First number: 3
+Last number: 2
+number: 32
+"fivefour7lxhg"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"49gcb8fqc3fnstcnmdneighttwo"
+digits: [4, 9, 8, 3]
+First number: 4
+Last number: 3
+number: 43
+"2vd"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"6tfpxszrkdsgphdsblkqfk"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"43rjxkfgdm4gkxnvdfxs"
+digits: [4, 3, 4]
+First number: 4
+Last number: 4
+number: 44
+"6225eight3"
+digits: [6, 2, 2, 5, 3]
+First number: 6
+Last number: 3
+number: 63
+"8one35four3"
+digits: [8, 3, 5, 3]
+First number: 8
+Last number: 3
+number: 83
+"prsevennineeightfour8"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"twozqdxfg363zczthree"
+digits: [3, 6, 3]
+First number: 3
+Last number: 3
+number: 33
+"eight9vcncjcbxhnfeight"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"meightjdg2vp73"
+digits: [2, 7, 3]
+First number: 2
+Last number: 3
+number: 23
+"seventhree9dzdhprp"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"btwoninegnfpfhxkvv3"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"threegkxmmxzsmblsjfds8seven"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"crbbpggzbfsjb8kqqgk9fourflghlzbgseven"
+digits: [8, 9]
+First number: 8
+Last number: 9
+number: 89
+"sixsix85eight5"
+digits: [8, 5, 5]
+First number: 8
+Last number: 5
+number: 85
+"nmrvnmgdrtwo8three"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"gqntwoneseven95eight1vtthdng1cgvxlvstgm"
+digits: [9, 5, 1, 1]
+First number: 9
+Last number: 1
+number: 91
+"oneqcftjqnxckthreegtsxfjbrmv2"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"threekdfzqhqeight54four7twonep"
+digits: [5, 4, 7]
+First number: 5
+Last number: 7
+number: 57
+"525xtwomtcgmfhbjninepkpjjsf"
+digits: [5, 2, 5]
+First number: 5
+Last number: 5
+number: 55
+"1sevenxvgjdznvnjftwolvmjmg"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"ppbgncvclfive45"
+digits: [4, 5]
+First number: 4
+Last number: 5
+number: 45
+"three6386qxzsvxpbz4onejt"
+digits: [6, 3, 8, 6, 4]
+First number: 6
+Last number: 4
+number: 64
+"szxc93tfh"
+digits: [9, 3]
+First number: 9
+Last number: 3
+number: 93
+"zdxgxlj9nine"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"9kkmgczf"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"4six3six97qcxxgmppgkll"
+digits: [4, 3, 9, 7]
+First number: 4
+Last number: 7
+number: 47
+"6fivethreefourtwo"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"nine9qpngcdftwo1seven7kzsjxqbggxone"
+digits: [9, 1, 7]
+First number: 9
+Last number: 7
+number: 97
+"sevenninegfjkxkbptwo7nine3xjgsxh"
+digits: [7, 3]
+First number: 7
+Last number: 3
+number: 73
+"6srqfplffour81threefive3"
+digits: [6, 8, 1, 3]
+First number: 6
+Last number: 3
+number: 63
+"869"
+digits: [8, 6, 9]
+First number: 8
+Last number: 9
+number: 89
+"nnsjzlrjcsnpd7zcfive"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"fivenmndbmjngpsvkjsbqxvncm6qjzcktnsevennlxpbkchk"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"three4eightwol"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"2gnbninedt"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"1twoninefour8"
+digits: [1, 8]
+First number: 1
+Last number: 8
+number: 18
+"5lb"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"cdczlxgxpdqvkcqbfivet3"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"nxxxreight158mvrhngveight"
+digits: [1, 5, 8]
+First number: 1
+Last number: 8
+number: 18
+"811dsqsscjgfive2"
+digits: [8, 1, 1, 2]
+First number: 8
+Last number: 2
+number: 82
+"nine8nine16gxqxcj6three"
+digits: [8, 1, 6, 6]
+First number: 8
+Last number: 6
+number: 86
+"dqjdfksftwohrrhzlcxd12vblpmsqrrfourshg"
+digits: [1, 2]
+First number: 1
+Last number: 2
+number: 12
+"345dstjsbllcnine"
+digits: [3, 4, 5]
+First number: 3
+Last number: 5
+number: 35
+"4three6vnzfssrqrg"
+digits: [4, 6]
+First number: 4
+Last number: 6
+number: 46
+"mlcmlvlmcseven72mcqlzfnpm2"
+digits: [7, 2, 2]
+First number: 7
+Last number: 2
+number: 72
+"ninegflbrbv6twosvfive"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"nineninerjmnhlthreenine3"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"zvsqxdggl9dxppmcmc389fourvpeight"
+digits: [9, 3, 8, 9]
+First number: 9
+Last number: 9
+number: 99
+"2fiveeighthtfvpndpn8mt3two"
+digits: [2, 8, 3]
+First number: 2
+Last number: 3
+number: 23
+"33tshvcbgtggone6"
+digits: [3, 3, 6]
+First number: 3
+Last number: 6
+number: 36
+"1sevenfivextsfpsix"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"frmhtjxcnztfhtgtr5"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"8jjsclsqgfourthree7lvct75"
+digits: [8, 7, 7, 5]
+First number: 8
+Last number: 5
+number: 85
+"62vqnhqct4"
+digits: [6, 2, 4]
+First number: 6
+Last number: 4
+number: 64
+"2jlvv55"
+digits: [2, 5, 5]
+First number: 2
+Last number: 5
+number: 25
+"lszrone3eight19ggpnine"
+digits: [3, 1, 9]
+First number: 3
+Last number: 9
+number: 39
+"8fivexxxrkzrppslbf8threexsskbkjcc"
+digits: [8, 8]
+First number: 8
+Last number: 8
+number: 88
+"pvpxjrnnp11rmgfhbpbninesmbfpcpseven"
+digits: [1, 1]
+First number: 1
+Last number: 1
+number: 11
+"seven8pfzgsbgjqtneight"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"rdksixnzmxgppj6qkftmcthgl9"
+digits: [6, 9]
+First number: 6
+Last number: 9
+number: 69
+"32three1"
+digits: [3, 2, 1]
+First number: 3
+Last number: 1
+number: 31
+"bnxd75"
+digits: [7, 5]
+First number: 7
+Last number: 5
+number: 75
+"mzlcnxgdddfpqkp6hjjpnnine31"
+digits: [6, 3, 1]
+First number: 6
+Last number: 1
+number: 61
+"135gnzr9brblpnk"
+digits: [1, 3, 5, 9]
+First number: 1
+Last number: 9
+number: 19
+"vvninerkskndtjq8zst4sixnine"
+digits: [8, 4]
+First number: 8
+Last number: 4
+number: 84
+"fivexdstdtfshcchblmknlneight5fncvl"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"7mhjsq7ninetwo3tbnkglngltwo"
+digits: [7, 7, 3]
+First number: 7
+Last number: 3
+number: 73
+"threeninesix5567"
+digits: [5, 5, 6, 7]
+First number: 5
+Last number: 7
+number: 57
+"2four14fzrsjr"
+digits: [2, 1, 4]
+First number: 2
+Last number: 4
+number: 24
+"9sixkl9"
+digits: [9, 9]
+First number: 9
+Last number: 9
+number: 99
+"rftbrjfour4"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"onemtjqqdrtjgkbv1plcgtxtwoonefoureight"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"6fourqsgfkqdnspzstbrhzxbthreeqxrshrfdbk1jrxptfhjfld"
+digits: [6, 1]
+First number: 6
+Last number: 1
+number: 61
+"sevensix9"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"one75two9fourxdjmzjv"
+digits: [7, 5, 9]
+First number: 7
+Last number: 9
+number: 79
+"one8rbvxt"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"skzg13"
+digits: [1, 3]
+First number: 1
+Last number: 3
+number: 13
+"ninesevent3"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"mcrgx49qbpzcqqbx"
+digits: [4, 9]
+First number: 4
+Last number: 9
+number: 49
+"threebsevensix9nine54six"
+digits: [9, 5, 4]
+First number: 9
+Last number: 4
+number: 94
+"1bjgnlhtxgx"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"71crfour"
+digits: [7, 1]
+First number: 7
+Last number: 1
+number: 71
+"3nkjflkqpjz61gzsffxlncmxg8"
+digits: [3, 6, 1, 8]
+First number: 3
+Last number: 8
+number: 38
+"rhppr943fourmmjm"
+digits: [9, 4, 3]
+First number: 9
+Last number: 3
+number: 93
+"rvmthreevbvxqhrhglvrh869"
+digits: [8, 6, 9]
+First number: 8
+Last number: 9
+number: 89
+"6sixfivexgshnkmx26"
+digits: [6, 2, 6]
+First number: 6
+Last number: 6
+number: 66
+"3srgvnbcsreighttfnjcs782"
+digits: [3, 7, 8, 2]
+First number: 3
+Last number: 2
+number: 32
+"87ninenjhxpnrhljkvnms3"
+digits: [8, 7, 3]
+First number: 8
+Last number: 3
+number: 83
+"foursix1rfgvmxqfrninekthjjk"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"fourtqbjqcmsgnine1twoxgvqdhbnloneeight"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"hhzdrttjvbzdngnqv2"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"kbm71"
+digits: [7, 1]
+First number: 7
+Last number: 1
+number: 71
+"qzmtwonexlzbv2eightfrjmhld6"
+digits: [2, 6]
+First number: 2
+Last number: 6
+number: 26
+"27mdxfj49kzkzdspbxvktm"
+digits: [2, 7, 4, 9]
+First number: 2
+Last number: 9
+number: 29
+"three8cvfqmntngvmhddgqdgonetjgnnzggjz9xqlxffgsc"
+digits: [8, 9]
+First number: 8
+Last number: 9
+number: 89
+"ckd3fourtwo5vzv"
+digits: [3, 5]
+First number: 3
+Last number: 5
+number: 35
+"lhbvlseven41bdrkzmshkxone"
+digits: [4, 1]
+First number: 4
+Last number: 1
+number: 41
+"6fourthreefourthreeskhdk"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"377dtljbhvfdr4ngqdqfbfournsnt"
+digits: [3, 7, 7, 4]
+First number: 3
+Last number: 4
+number: 34
+"rvbkddqrfm8rpfive"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"1ninethree"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"zjhbkjrb5qvtjbcgpkvksbsszpqjfcrgrcqggdtc"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"73nine9pslhnpmxjjfourthree"
+digits: [7, 3, 9]
+First number: 7
+Last number: 9
+number: 79
+"91nine5xndjkx7"
+digits: [9, 1, 5, 7]
+First number: 9
+Last number: 7
+number: 97
+"four17crgvnqtwoxqxfcsbbbsjlsjhsfll"
+digits: [1, 7]
+First number: 1
+Last number: 7
+number: 17
+"five9twobqlgcdpk4"
+digits: [9, 4]
+First number: 9
+Last number: 4
+number: 94
+"pblrzfive7ninetzfiverhlslrsone"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"7bltone"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"3eightthree16"
+digits: [3, 1, 6]
+First number: 3
+Last number: 6
+number: 36
+"nineone54hspfngxzhzh"
+digits: [5, 4]
+First number: 5
+Last number: 4
+number: 54
+"7sixzxqlsqqsvfouronethree6"
+digits: [7, 6]
+First number: 7
+Last number: 6
+number: 76
+"8kklgfmqvntwonine9"
+digits: [8, 9]
+First number: 8
+Last number: 9
+number: 89
+"dznsskrrfchdnm2fxcvqvf3eight"
+digits: [2, 3]
+First number: 2
+Last number: 3
+number: 23
+"cmfkrlslhgzprgkfive6seven"
+digits: [6]
+First number: 6
+Last number: 6
+number: 66
+"4threethree"
+digits: [4]
+First number: 4
+Last number: 4
+number: 44
+"threesix2fkzsjkr6six"
+digits: [2, 6]
+First number: 2
+Last number: 6
+number: 26
+"8bcqmshjlnfivecrjtcsznrfive"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"11nine3six"
+digits: [1, 1, 3]
+First number: 1
+Last number: 3
+number: 13
+"326one1zvdzc"
+digits: [3, 2, 6, 1]
+First number: 3
+Last number: 1
+number: 31
+"1sjttzbstpx6sgfzpgdltxseven15bvrbmccbzkbgdnkkhpd"
+digits: [1, 6, 1, 5]
+First number: 1
+Last number: 5
+number: 15
+"9bbpksbnpdm"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"3rtcztcr"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"bk1sevenjbmncfiveninejp"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"seven62hjvttpk"
+digits: [6, 2]
+First number: 6
+Last number: 2
+number: 62
+"rsnqnlgfgrxk8sfxhrlgmc1jnjgctclr7"
+digits: [8, 1, 7]
+First number: 8
+Last number: 7
+number: 87
+"3sbmxlshf5five4"
+digits: [3, 5, 4]
+First number: 3
+Last number: 4
+number: 34
+"8nprjs"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"three89"
+digits: [8, 9]
+First number: 8
+Last number: 9
+number: 89
+"four399ljmdptjbgkthree"
+digits: [3, 9, 9]
+First number: 3
+Last number: 9
+number: 39
+"cthxllrzbseveneight7four"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"3gzvsfnxfive"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"pjbgbnine1rphbcrhgnine2"
+digits: [1, 2]
+First number: 1
+Last number: 2
+number: 12
+"56fourcsfpfnntpkfcsqkkp6oneightlsv"
+digits: [5, 6, 6]
+First number: 5
+Last number: 6
+number: 56
+"fourmn5kqgvk"
+digits: [5]
+First number: 5
+Last number: 5
+number: 55
+"96twoseven"
+digits: [9, 6]
+First number: 9
+Last number: 6
+number: 96
+"2bk"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"8nineninesevenvxfnqlsrnxbr"
+digits: [8]
+First number: 8
+Last number: 8
+number: 88
+"fivetnxmljplldd3six"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"qtzcgtlh9"
+digits: [9]
+First number: 9
+Last number: 9
+number: 99
+"gtnkglkd3twoqgqhj6dpfgqtpptg"
+digits: [3, 6]
+First number: 3
+Last number: 6
+number: 36
+"7jvxsltntrksjzsix"
+digits: [7]
+First number: 7
+Last number: 7
+number: 77
+"three95fivebpvtzh"
+digits: [9, 5]
+First number: 9
+Last number: 5
+number: 95
+"3kxxfvsseven"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"157xvtnfkqnsbvpxlrdmjszrpmpfive"
+digits: [1, 5, 7]
+First number: 1
+Last number: 7
+number: 17
+"7threeseventwo7twoseven5"
+digits: [7, 7, 5]
+First number: 7
+Last number: 5
+number: 75
+"rcmzjxg1csdhdkvfhxppsixfivethree"
+digits: [1]
+First number: 1
+Last number: 1
+number: 11
+"nvgfnine38onezdbhhgtmshc"
+digits: [3, 8]
+First number: 3
+Last number: 8
+number: 38
+"2ngoneninex"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"1eight57ggvqjmsixonefour"
+digits: [1, 5, 7]
+First number: 1
+Last number: 7
+number: 17
+"dhq7hzhmbzdhzjxhdtwo32"
+digits: [7, 3, 2]
+First number: 7
+Last number: 2
+number: 72
+"ggdone3nbmsthreefourninefiveoneightpr"
+digits: [3]
+First number: 3
+Last number: 3
+number: 33
+"fourvzgnfnhkkp2"
+digits: [2]
+First number: 2
+Last number: 2
+number: 22
+"j47three8sevenfivenfkd"
+digits: [4, 7, 8]
+First number: 4
+Last number: 8
+number: 48
+"twotwo4seven1fqklblqbdxcmtch"
+digits: [4, 1]
+First number: 4
+Last number: 1
+number: 41
+Sum: 54239
